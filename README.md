@@ -1,6 +1,6 @@
 # FR_Porfolio
 
-# [Master's thesis - Aeroelastic Tailoring of Helicopter Main Rotor Blade] (https://github.com/franrod98/master_thesis)
+# [Master's thesis : Aeroelastic Tailoring of Helicopter Main Rotor Blade](https://github.com/franrod98/master_thesis)
 
 ## Abstract
   The baseline concept of aeroelastic tailoring is to gain control over the in-flight deformation of a lifting surface
